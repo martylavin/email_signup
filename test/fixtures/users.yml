@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Martylavin_one
+  email: martylavin1@gmail.com
+
+two:
+  name: Jimmylavin_two
+  email: martylavin1@yahoo.com
+

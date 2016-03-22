@@ -1,0 +1,16 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @user.name %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @user.email %>
+</p>
+
+<%= link_to 'Edit Member Information', edit_user_path(@user), class: "btn brn-lg btn-primary"  %> |
+
+<%= link_to 'Back to Email Member List', users_path, class: "btn brn-lg btn-primary" %>
+
