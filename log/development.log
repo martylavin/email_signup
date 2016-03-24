@@ -32058,3 +32058,5 @@ ActionController::RoutingError (No route matches [GET] "/assets/css/bootstrap-re
   Rendered /Users/martinlavin/.rvm/gems/ruby-2.0.0-p247/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
   Rendered /Users/martinlavin/.rvm/gems/ruby-2.0.0-p247/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.2ms)
   Rendered /Users/martinlavin/.rvm/gems/ruby-2.0.0-p247/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (363.4ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
